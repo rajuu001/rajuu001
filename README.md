@@ -56,7 +56,8 @@
 
 ## 🔗 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/raju-kumar-b293643a5/
+    " target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://github.com/rajuu001" target="_blank">
